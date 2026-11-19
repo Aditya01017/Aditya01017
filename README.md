@@ -6,7 +6,7 @@ Electronics and Communication Engineering student at Punjab Engineering College,
 
 | Project | What it demonstrates |
 | --- | --- |
-| [IoT Asset Dashboard](https://github.com/Aditya01017/iot-dashboard) | Authenticated asset-management workflows, REST APIs, search, filtering, pagination, and React UI state management. |
+| [IoT Asset Dashboard](https://github.com/Aditya01017/iot-dashboard) | JWT-protected asset API with server-side pagination, status filtering, and case-insensitive search; React dashboard with table and map views. |
 | [Medicare MERN Platform](https://github.com/Aditya01017/medicare-mern-platform) | Multi-application healthcare appointment platform with patient, admin, and API components. |
 | [ShopSphere](https://github.com/Aditya01017/ShopSphere) | MERN e-commerce application covering catalog, cart, orders, administration, payments, and media uploads. |
 
@@ -18,4 +18,4 @@ Electronics and Communication Engineering student at Punjab Engineering College,
 
 ## How I work
 
-I value clear project documentation, reproducible local setup, clean Git history, and keeping secrets out of source control. Each public repository includes setup guidance and environment templates for local development.
+I value clear project documentation, reproducible local setup and keeping secrets out of source control. Each public repository includes setup guidance and environment templates for local development.
